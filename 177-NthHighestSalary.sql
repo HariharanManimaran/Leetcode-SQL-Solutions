@@ -1,5 +1,6 @@
 -- LeetCode Problem Number - 177
 -- Difficulty - Medium
+-- PostgreSQL
 
 CREATE OR REPLACE FUNCTION NthHighestSalary(N INT) RETURNS TABLE (Salary INT) AS $$
 BEGIN
