@@ -1,6 +1,7 @@
 -- LeetCode Problem Number - 176
 -- Difficulty - Medium
- 
+ -- PostgreSQL
+
     WITH cte AS (
     SELECT *,
     CASE WHEN dense_rank() over(ORDER BY e.salary DESC) = 2 THEN e.salary
