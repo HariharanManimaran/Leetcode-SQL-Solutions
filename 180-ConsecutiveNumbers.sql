@@ -1,4 +1,4 @@
-- LeetCode Problem Number - 180
+-- LeetCode Problem Number - 180
 -- Difficulty - Medium
 -- PostgreSQL
 
