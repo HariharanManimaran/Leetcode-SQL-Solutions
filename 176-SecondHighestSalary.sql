@@ -1,6 +1,6 @@
 -- LeetCode Problem Number - 176
 -- Difficulty - Medium
- -- PostgreSQL
+-- PostgreSQL
 
     WITH cte AS (
     SELECT *,
