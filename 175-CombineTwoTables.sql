@@ -1,5 +1,6 @@
 -- LeetCode Problem Number - 175 
 -- Difficulty - Easy
+-- PostgreSQL
 
  -- This approach involves using a LEFT JOIN operation in SQL to combine records from the 'person' and 'address' tables.
 
