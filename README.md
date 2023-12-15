@@ -12,3 +12,5 @@ SQL LeetCode Problems
 - [183 Customers Who Never Order](https://github.com/HariharanManimaran/Leetcode-SQL-Solutions/blob/main/183-CustomersWhoNeverOrder.sql)
 - [184 Department Highest Salary](https://github.com/HariharanManimaran/Leetcode-SQL-Solutions/blob/main/184-DepartmentHighestSalary.sql)
 - [185 Department Top Three Salaries](https://github.com/HariharanManimaran/Leetcode-SQL-Solutions/blob/main/185-DepartmentTopThreeSalaries.sql)
+- [196 Delete Duplicate Emails](https://github.com/HariharanManimaran/Leetcode-SQL-Solutions/blob/main/196-DeleteDuplicateEmails.sql)
+- [197 Rising Temperature](https://github.com/HariharanManimaran/Leetcode-SQL-Solutions/blob/main/197-RisingTemperature.sql)
